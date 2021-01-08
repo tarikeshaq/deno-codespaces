@@ -4,9 +4,9 @@
 import { assert, assertEquals } from "./test.depts.ts";
 
 Deno.test("Example test - assert true", () => {
-    assert(true);
+  assert(true);
 });
 
 Deno.test("Example test - 1 = 1", () => {
-    assertEquals(1, 1);
+  assertEquals(1, 1);
 });
