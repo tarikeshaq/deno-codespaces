@@ -1,5 +1,5 @@
 {
-    "name": "Deno blog codespaces",
+    "name": "Deno codespaces template",
     "extensions": [
         "coenraads.bracket-pair-colorizer-2",
         "cschleiden.vscode-github-actions",

@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "testing/": "https://deno.land/std@0.83.0/testing/"
+    }
+}
