@@ -3,4 +3,4 @@
 // import * from "<URL_TO_YOUR_CODE>/mod.ts".
 
 export * from "./src/types.ts";
-export { assert } from "./depts.ts";
+export { assert } from "./deps.ts";

@@ -1,7 +1,7 @@
 // This is an example of a test file.
 // You can run this, and all other tests using the `deno test` command.
 
-import { assert, assertEquals } from "./test.depts.ts";
+import { assert, assertEquals } from "./test.deps.ts";
 
 Deno.test("Example test - assert true", () => {
   assert(true);
